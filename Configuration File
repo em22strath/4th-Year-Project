@@ -1,0 +1,29 @@
+#List of all module options to be imported into the run file
+
+CAMERA LABEL: Raspberry Pi Camera
+CAMERA FILE NAME: piCameraClass
+CAMERA CLASS NAME: piCamera
+
+CAMERA LABEL: USB Camera
+CAMERA FILE NAME: USBCameraClass
+CAMERA CLASS NAME: USBCamera
+
+STAGE LABEL: OpenFlexure 3D Basic Stage
+STAGE FILE NAME: basicStageClass
+STAGE CLASS NAME: basicStage
+
+STAGE LABEL: OpenFlexure 3D Delta Stage
+STAGE FILE NAME: deltaStageClass
+STAGE CLASS NAME: deltaStage
+
+LED LABEL: 11x7 LED Matrix
+LED FILE NAME: 11x7MatrixClass
+LED CLASS NAME: LEDMatrix
+
+LED LABEL: Basic LED
+LED FILE NAME: basicLEDClass
+LED CLASS NAME: basicLED
+
+LED LABEL: Test
+LED FILE NAME: testLED
+LED CLASS NAME: LED
